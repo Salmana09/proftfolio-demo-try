@@ -1,0 +1,50 @@
+*{
+    margin: o;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header and nav bar style design css */
+.container {
+    width: 85%; 
+    margin: 0 auto; 
+    padding: 20px; 
+}
+.nav-titles{
+    font-size: 33px;
+    font-weight: 800px;
+
+}
+.primery-color{
+    color: rgb(255, 1, 1);
+}
+
+nav li{
+    list-style: none;
+    margin-left: 50px;
+    font-size: 20px;
+   
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+.btn-primery{
+    color: #fff;
+    padding: 10px;
+    font-weight: 700px;
+    border: 0px;
+    background-color:rgb(255, 1, 1);
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+
+/* banner style */
+.benner{
+    display: flex;
+    margin: 0 200px;
+}
